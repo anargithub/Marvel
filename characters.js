@@ -32,4 +32,4 @@ drawCharacters()
 function getComics(characterId){
     localStorage.setItem("characterId", characterId)
     location.href = "comics.html"
-}
+} 

@@ -28,4 +28,4 @@ async function drawComics() {
             </div>`
     }
 }
-drawComics()
+drawComics() 
